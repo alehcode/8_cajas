@@ -1,0 +1,68 @@
+.uno{
+	background-color: grey;
+	width: 125px;
+	height: 130px;
+	border: 1px black solid;
+	margin-bottom: 10px;
+}
+.dos{
+    background-color: grey;
+	width: 440px;
+	height: 150px;
+	margin-bottom: 10px;
+	border: 1px black solid;
+}
+.tres{
+	background-color: grey;
+	width: 125px;
+	height: 130px;
+	border: 1px black solid;
+	margin-bottom: 10px;
+	position: absolute;
+	top: 160px;
+	left: 20px;
+}
+.cuatro{
+	background-color: grey;
+	width: 125px;
+	height: 130px;
+	border: 1px black solid;
+	margin-bottom: 10px;
+	position: absolute;
+	top: 160px;
+	left: 160px;
+}
+.cinco{
+	background-color: grey;
+	width: 125px;
+	height: 130px;
+	border: 1px black solid;
+	margin-bottom: 10px;
+	position: absolute;
+	top: 160px;
+	left: 300px;
+}
+.seis{
+	background-color: grey;
+	width: 125px;
+	height: 130px;
+	border: 1px black solid;
+	margin-bottom: 10px;
+	position: absolute;
+	top: 312px;
+	left: 150px;
+}
+.siete{
+	background-color: grey;
+	width: 125px;
+	height: 130px;
+	border: 1px black solid;
+	margin-bottom: 10px;
+}
+.ocho{
+	background-color: grey;
+	width: 125px;
+	height: 130px;
+	border: 1px black solid;
+	margin-bottom: 10px;
+}
